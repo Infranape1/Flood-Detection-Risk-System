@@ -1,0 +1,8 @@
+gradio>=4.0.0
+tensorflow
+numpy
+pillow
+requests
+joblib
+scikit-learn==1.6.1
+pandas
