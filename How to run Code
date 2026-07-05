@@ -1,1 +1,33 @@
+API:
 
+In weather_api.py and app.py find this line no.3 API_KEY = "" and line no.14 PENWEATHER_KEY = ""
+
+Now go to " https://openweathermap.org/api " and create api key and put it.
+
+Run for first time.
+
+In terminal:
+
+Step 1:
+py -3.11 -m venv venv
+
+Step 2:
+venv\Scripts\activate
+
+Step 3:
+pip install -r requirements.txt
+
+Step 4:
+py app.py
+
+
+For regular run adter first time run:
+
+Step 1:
+py -3.11 -m venv venv
+
+Step 2:
+venv\Scripts\activate
+
+Step 3:
+py app.py
